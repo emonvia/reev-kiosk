@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(npm install:*)",
+      "Bash(npx vitest run:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(kill:*)",
+      "Bash(pkill:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(npx tsc:*)",
+      "Bash(node -e:*)",
+      "WebSearch",
+      "Bash(npm uninstall:*)",
+      "WebFetch(domain:docs.reev.com)",
+      "WebFetch(domain:reev-api.readme.io)",
+      "Bash(ls:*)",
+      "Bash(tee:*)",
+      "Bash(git checkout:*)",
+      "Bash(lsof:*)",
+      "Bash(brew install:*)",
+      "Bash(pdftoppm:*)",
+      "Bash(pdftotext:*)"
+    ]
+  }
+}
