@@ -1,10 +1,10 @@
 /**
- * Server-side Reev Partner API client.
+ * Server-side reev Partner API client.
  *
  * All functions in this module run on the server only (used by Server Components
  * and Route Handlers). Credentials and tokens never reach the browser.
  *
- * Authentication uses the OAuth2 client credentials flow against Reev's
+ * Authentication uses the OAuth2 client credentials flow against reev's
  * Keycloak instance. Tokens are cached in memory and refreshed automatically.
  */
 

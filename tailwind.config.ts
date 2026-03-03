@@ -1,7 +1,7 @@
 import type { Config } from "tailwindcss";
 
 // ---------------------------------------------------------------------------
-// Reev Brand Guidelines
+// reev Brand Guidelines
 // ---------------------------------------------------------------------------
 // Typography: Arial — chosen because it is a widely available system font
 // that can be freely distributed across all platforms without licensing issues.

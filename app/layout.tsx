@@ -5,9 +5,9 @@ import "./globals.css";
 const KIOSK_LOCALE = (process.env.KIOSK_LOCALE ?? "en") as Locale;
 
 export const metadata: Metadata = {
-  title: "Reev Kiosk",
+  title: "reev Kiosk",
   description:
-    "Full-screen EV charging station monitoring kiosk, powered by the Reev Partner API.",
+    "Full-screen EV charging station monitoring kiosk, powered by the reev Partner API.",
 };
 
 export default function RootLayout({

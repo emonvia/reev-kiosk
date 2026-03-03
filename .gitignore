@@ -32,6 +32,9 @@ yarn-error.log*
 # claude code
 .claude/
 
+# n8n workflows (contain credentials/secrets)
+/n8n/
+
 # vercel
 .vercel
 
